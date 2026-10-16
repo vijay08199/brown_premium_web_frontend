@@ -1,8 +1,9 @@
-# Sri Parinithee Infra Website
+# brown_premium_web_frontend
 
 ## Project Overview
 
-**Name:** Sri Parinithee Infra
+**Name:** brown_premium_web_frontend
+
 
 **Purpose:** A luxury‑real‑estate marketing website for Sri Parinithee Infra Developers Pvt. Ltd. The site showcases directors, projects, a gallery, services, benefits, contact information, and SEO‑optimized content. The current implementation is a static React + TypeScript single‑page application built with Vite.
 
